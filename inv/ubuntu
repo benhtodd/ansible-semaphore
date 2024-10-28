@@ -1,8 +1,3 @@
 [ubuntu]
 coho-01.coho.local
 kvm-01.coho.local
-
-
-[ubuntu:vars]
-ansible_user=toddb
-ansible_password=VMware1!
