@@ -1,7 +1,7 @@
 [ubuntu]
-automation.coho.local
 jumpbox.coho.local
 coho-01.coho.local
+kvm-01.coho.local
 
 [ubuntu:vars]
 ansible_user=toddb
